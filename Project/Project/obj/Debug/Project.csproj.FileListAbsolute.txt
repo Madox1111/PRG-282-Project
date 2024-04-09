@@ -1,0 +1,16 @@
+C:\Users\Madox\Documents\PRG282\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Madox\Documents\PRG282\Project\Project\bin\Debug\Project.exe
+C:\Users\Madox\Documents\PRG282\Project\Project\bin\Debug\Project.pdb
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Create.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.exe
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.pdb
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Delete.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Madox\Documents\PRG282\Project\Project\obj\Debug\Project.Update.resources
